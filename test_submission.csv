@@ -1,0 +1,46 @@
+candidate_id,rank,score,reasoning
+CAND_0000031,1,1.0000,Recommendation Systems Engineer with 6.0 yrs; 11 advanced/expert skills; response rate 0.91; strongest: semantic alignment
+CAND_0000027,2,0.8003,DevOps Engineer with 3.9 yrs; 4 advanced/expert skills; response rate 0.58; strongest: education
+CAND_0000014,3,0.7750,Frontend Engineer with 8.4 yrs; 5 advanced/expert skills; response rate 0.80; strongest: semantic alignment
+CAND_0000024,4,0.6955,HR Manager with 7.5 yrs; 1 advanced/expert skills; response rate 0.78; strongest: education
+CAND_0000010,5,0.6879,Data Engineer with 4.6 yrs; 6 advanced/expert skills; response rate 0.40; strongest: semantic alignment
+CAND_0000001,6,0.6855,Backend Engineer with 6.9 yrs; 7 advanced/expert skills; response rate 0.34; strongest: education
+CAND_0000020,7,0.6385,Mechanical Engineer with 6.3 yrs; 1 advanced/expert skills; response rate 0.55; strongest: education
+CAND_0000007,8,0.6228,Civil Engineer with 5.5 yrs; 0 advanced/expert skills; response rate 0.62; strongest: education
+CAND_0000032,9,0.6044,.NET Developer with 8.1 yrs; 3 advanced/expert skills; response rate 0.69; strongest: education
+CAND_0000021,10,0.6019,Project Manager with 14.5 yrs; 4 advanced/expert skills; response rate 0.49; strongest: semantic alignment
+CAND_0000015,11,0.5940,Software Engineer with 5.4 yrs; 0 advanced/expert skills; response rate 0.32; strongest: education
+CAND_0000025,12,0.5816,Frontend Engineer with 7.3 yrs; 1 advanced/expert skills; response rate 0.74; strongest: semantic alignment
+CAND_0000050,13,0.5663,Business Analyst with 13.5 yrs; 1 advanced/expert skills; response rate 0.42; strongest: education
+CAND_0000011,14,0.5523,QA Engineer with 2.0 yrs; 2 advanced/expert skills; response rate 0.56; strongest: education
+CAND_0000023,15,0.5428,Software Engineer with 3.7 yrs; 0 advanced/expert skills; response rate 0.57; strongest: education
+CAND_0000026,16,0.5424,Graphic Designer with 6.8 yrs; 0 advanced/expert skills; response rate 0.59; strongest: semantic alignment
+CAND_0000043,17,0.5129,Cloud Engineer with 8.3 yrs; 6 advanced/expert skills; response rate 0.04; strongest: semantic alignment
+CAND_0000005,18,0.5104,Accountant with 11.0 yrs; 1 advanced/expert skills; response rate 0.37; strongest: education
+CAND_0000016,19,0.4849,Accountant with 5.3 yrs; 1 advanced/expert skills; response rate 0.64; strongest: education
+CAND_0000038,20,0.4769,Java Developer with 6.7 yrs; 1 advanced/expert skills; response rate 0.20; strongest: semantic alignment
+CAND_0000008,21,0.4746,Operations Manager with 3.6 yrs; 0 advanced/expert skills; response rate 0.42; strongest: education
+CAND_0000044,22,0.4624,Frontend Engineer with 5.7 yrs; 0 advanced/expert skills; response rate 0.66; strongest: education
+CAND_0000041,23,0.4533,Operations Manager with 13.7 yrs; 0 advanced/expert skills; response rate 0.07; strongest: semantic alignment
+CAND_0000029,24,0.4413,Business Analyst with 7.2 yrs; 0 advanced/expert skills; response rate 0.12; strongest: semantic alignment
+CAND_0000042,25,0.4352,HR Manager with 5.0 yrs; 0 advanced/expert skills; response rate 0.58; strongest: education
+CAND_0000033,26,0.4341,Graphic Designer with 8.6 yrs; 0 advanced/expert skills; response rate 0.08; strongest: education
+CAND_0000028,27,0.4333,Operations Manager with 1.1 yrs; 0 advanced/expert skills; response rate 0.14; strongest: education
+CAND_0000030,28,0.4325,Marketing Manager with 10.0 yrs; 0 advanced/expert skills; response rate 0.66; strongest: education
+CAND_0000048,29,0.4294,Mobile Developer with 9.7 yrs; 0 advanced/expert skills; response rate 0.65; strongest: education
+CAND_0000035,30,0.4172,Full Stack Developer with 4.3 yrs; 1 advanced/expert skills; response rate 0.34; strongest: education
+CAND_0000002,31,0.4159,Operations Manager with 12.5 yrs; 0 advanced/expert skills; response rate 0.29; strongest: semantic alignment
+CAND_0000013,32,0.4119,Civil Engineer with 1.1 yrs; 0 advanced/expert skills; response rate 0.28; strongest: education
+CAND_0000019,33,0.4102,Project Manager with 6.5 yrs; 0 advanced/expert skills; response rate 0.34; strongest: education
+CAND_0000046,34,0.3933,Mechanical Engineer with 7.8 yrs; 0 advanced/expert skills; response rate 0.41; strongest: education
+CAND_0000022,35,0.3786,Mechanical Engineer with 1.1 yrs; 0 advanced/expert skills; response rate 0.27; strongest: education
+CAND_0000003,36,0.3748,Customer Support with 1.1 yrs; 0 advanced/expert skills; response rate 0.46; strongest: education
+CAND_0000049,37,0.3699,Mechanical Engineer with 11.8 yrs; 0 advanced/expert skills; response rate 0.59; strongest: education
+CAND_0000036,38,0.3302,Project Manager with 11.3 yrs; 1 advanced/expert skills; response rate 0.40; strongest: semantic alignment
+CAND_0000018,39,0.3231,Frontend Engineer with 6.6 yrs; 1 advanced/expert skills; response rate 0.16; strongest: semantic alignment
+CAND_0000012,40,0.3112,Operations Manager with 1.1 yrs; 0 advanced/expert skills; response rate 0.16; strongest: semantic alignment
+CAND_0000047,41,0.3098,Project Manager with 2.4 yrs; 0 advanced/expert skills; response rate 0.39; strongest: semantic alignment
+CAND_0000009,42,0.2844,Mechanical Engineer with 11.0 yrs; 0 advanced/expert skills; response rate 0.53; strongest: semantic alignment
+CAND_0000017,43,0.2794,Accountant with 12.3 yrs; 0 advanced/expert skills; response rate 0.27; strongest: semantic alignment
+CAND_0000040,44,0.2518,Customer Support with 1.6 yrs; 0 advanced/expert skills; response rate 0.46; strongest: semantic alignment
+CAND_0000034,45,0.2000,Business Analyst with 14.5 yrs; 0 advanced/expert skills; response rate 0.15; strongest: semantic alignment
