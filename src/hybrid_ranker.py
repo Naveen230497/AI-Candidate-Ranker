@@ -42,22 +42,12 @@ def rank_candidates(scored_candidates: list) -> list:
     # Take top 100
     top_100 = sorted_candidates[:100]
     
-    # Normalize scores: rank 1 gets highest score, linearly decrease
-    # But we keep the actual computed scores, just make sure they're non-increasing
+    # Rank 1 gets the highest absolute score, and we just round it for readability
     if top_100:
-        max_score = top_100[0]['final_score']
-        min_score = top_100[-1]['final_score'] if len(top_100) > 1 else max_score
-        
         for i, candidate in enumerate(top_100):
             candidate['rank'] = i + 1
-            # Normalize to 0.2-1.0 range for readability
-            if max_score > min_score:
-                candidate['score'] = round(
-                    0.2 + 0.8 * (candidate['final_score'] - min_score) / (max_score - min_score),
-                    4
-                )
-            else:
-                candidate['score'] = round(candidate['final_score'], 4)
+            # Return the true absolute score to preserve exact margins!
+            candidate['score'] = round(candidate['final_score'], 4)
         
         # Ensure scores are non-increasing (required by validator)
         for i in range(1, len(top_100)):
